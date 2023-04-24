@@ -1,7 +1,7 @@
 ![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif])
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from India. I will help you anything about this field.</h3><hr>
-<img align="center" width="370" style="margin-bottom:10px;" src="/rightimg.jpg" alt="imgNotFound">
+<img align="center" width="370" style="margin-bottom:10px;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20views&color=0e75b6&style=flat" alt="yashgajjar7017" /> </p>
 
