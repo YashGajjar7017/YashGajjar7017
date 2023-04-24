@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.vimeocdn.com/video/1566796591-9c1bd45e88ae17f43c30eb08f2e735e1d1e7ab5bde09f9920b8af18c5bba59a2-d?mw=1000&mh=562))
+![MasterHead]([https://i.vimeocdn.com/video/1566796591-9c1bd45e88ae17f43c30eb08f2e735e1d1e7ab5bde09f9920b8af18c5bba59a2-d?mw=1000&mh=562])
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from India. I will help you anything about this field.</h3><hr>
 <img align="center" width="370" style="margin-bottom:10px;" src="/rightimg.jpg" alt="imgNotFound">
