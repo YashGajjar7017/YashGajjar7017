@@ -1,4 +1,4 @@
-![MasterHead]([[https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif](https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5)])
+![MasterHead]([https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5])
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from India. I will help you anything about this field.</h3><hr>
 <img align="center" width="370" style="margin-bottom:10px;" src="/rightimg.jpg" alt="imgNotFound">
