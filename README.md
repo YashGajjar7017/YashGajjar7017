@@ -1,4 +1,12 @@
 ![logo](https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Yash.png)
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from India. I will help you anything about this field.</h3><hr>
 <img align="center" width="370" style="margin-bottom:10px;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
@@ -24,17 +32,6 @@
 - 📫 How to reach me **codingwithyashacker17@gmail.com**
 
 - ⚡ Fun fact **I think! I am developer, but I am not😁**
-
-<div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links-->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
