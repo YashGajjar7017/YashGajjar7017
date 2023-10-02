@@ -25,6 +25,17 @@
 
 - ⚡ Fun fact **I think! I am developer, but I am not😁**
 
+<div id="top"></div>
+
+<!-- PROJECT SHIELDS -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yashgajjar7017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yashgajjar7017" height="30" width="40" /></a>
