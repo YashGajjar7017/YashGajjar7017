@@ -46,9 +46,10 @@
 
 [![Yashacker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgajjar7017&theme=react-dark)](https://github.com/yashgajjar7017/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgajjar7017&" alt="yashgajjar7017" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgajjar7017&show_icons=true&locale=en&layout=compact" alt="yashgajjar7017" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgajjar7017&" alt="yashgajjar7017" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgajjar7017&show_icons=true&locale=en" alt="yashgajjar7017" /></p><hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgajjar7017&show_icons=true&locale=en&layout=compact" alt="yashgajjar7017" /></p>
+
 <center><h2>Resume:</h2></center>
 <img align="center" width="100%" height="100%" style="border:2px dotted white;" src="https://github.com/YashGajjar7017/Resume/blob/main/resume.jpg" alt="imgNotFound">
 
