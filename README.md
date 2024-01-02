@@ -45,8 +45,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a></p>
 
 <h3 align="left">Projects on :-</h3>
-![projects](https://skillicons.dev/icons?i=ts,js,react,vue,vite,electron)
-<img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,electron" alt="xd" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,electron" alt="xd" width="140" height="140"/>
 <hr>
 
 [![Yashacker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgajjar7017&theme=react-dark)](https://github.com/yashgajjar7017/github-readme-activity-graph)
