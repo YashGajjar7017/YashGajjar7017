@@ -47,8 +47,8 @@
 <h3 align="left">Projects on :-</h3>
 
 <hr>
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Tony_Lu110)
-[![Discard](https://skillicons.dev/icons?i=discord)](https://discord.gg/psCCt5y6)
+![Twitter](https://skillicons.dev/icons?i=twitter)
+![Discard](https://skillicons.dev/icons?i=discord)
 
 [![Yashacker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgajjar7017&theme=react-dark)](https://github.com/yashgajjar7017/github-readme-activity-graph)
 
