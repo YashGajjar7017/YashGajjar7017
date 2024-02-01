@@ -37,7 +37,7 @@
 <a href="https://www.hackerearth.com/@yash gajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yash gajjar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Skiils & Tools i used:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,flutter,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,appwrite,arduino,astro,atom,au,azul,azure,babel,blender,bootstrap,c,cs,cpp,cloudflare,cmake,codepen,coffeescript,css,dart,devto,discord,django,docker,dotnet,eclipse,electron,elixir,fastapi,figma,firebase,flask,gatsby,gcp,git,github,gitlab,gherkin,go,grafana,graphql,haskell,heroku,html,idea,java,js,jquery,kotlin,ktor,kubernetes,laravel,lit,mastodon,matlab,maven,mongodb,nestjs,nextjs,nginx,php,planetscale,postman,powershell,processing,py,raspberrypi,react,regex,replit,rocket,ruby,sass,spring,sqlite,stackoverflow,sklearn,svg,swift,tailwind,tensorflow,terraform,ts,unreal,unity,v,visualstudio,vite,vue,windicss,wordpress,workers&perline=15&theme=light)](https://skillicons.dev)
 <hr>
