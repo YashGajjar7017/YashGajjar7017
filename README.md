@@ -39,7 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=all&perline=15&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,flutter,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,appwrite,arduino,astro,atom,au,azul&perline=15&theme=light)](https://skillicons.dev)
 <hr>
 
 [![Yashacker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgajjar7017&theme=react-dark)](https://github.com/yashgajjar7017/github-readme-activity-graph)
