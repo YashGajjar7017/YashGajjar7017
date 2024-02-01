@@ -39,7 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,flutter,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,appwrite,arduino,astro,atom,au,azul,azure,babel,blender,bootstrap,c,cs,cpp,cloudflare,cmake,codepen,coffeescript,css,dart,devto,discord,django,docker,dotnet,eclipse,electron,elixir,fastapi,figma,firebase,flask,gatsby,gcp,git,github,gitlab,gherkin,go,grafana,graphql,haskell,heroku,html,idea,java,js,jquery,kotlin,ktor,kubernetes,laravel,lit,mastodon,matlab,maven,mongodb,nestjs,nextjs,nginx,nixperl,php,planetscale,&perline=15&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,flutter,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,appwrite,arduino,astro,atom,au,azul,azure,babel,blender,bootstrap,c,cs,cpp,cloudflare,cmake,codepen,coffeescript,css,dart,devto,discord,django,docker,dotnet,eclipse,electron,elixir,fastapi,figma,firebase,flask,gatsby,gcp,git,github,gitlab,gherkin,go,grafana,graphql,haskell,heroku,html,idea,java,js,jquery,kotlin,ktor,kubernetes,laravel,lit,mastodon,matlab,maven,mongodb,nestjs,nextjs,nginx,php,planetscale,postman,powershell,processing,py,raspberrypi,react&perline=15&theme=light)](https://skillicons.dev)
 <hr>
 
 [![Yashacker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgajjar7017&theme=react-dark)](https://github.com/yashgajjar7017/github-readme-activity-graph)
