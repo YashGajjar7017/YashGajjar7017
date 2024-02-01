@@ -54,4 +54,6 @@
 <img align="center" width="100%" height="100%" style="border:2px dotted white;" src="https://github.com/YashGajjar7017/Resume/blob/main/resume.jpg" alt="imgNotFound">
 
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YashGajjar7017}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YashGajjar7017}/count.svg" /></p> <hr>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
