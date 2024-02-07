@@ -4,8 +4,6 @@
 <h3 align="center">A passionate backhand developer from India. I will help you anything about this field.</h3><hr>
 <img align="center" width="370" style="margin-bottom:10px;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20views&color=0e75b6&style=flat" alt="yashgajjar7017" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgajjar7017" alt="yashgajjar7017" /></a> </p>
 
 - 🔭 I’m currently working on [Gitlab](#)
@@ -53,3 +51,5 @@
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YashGajjar7017}/count.svg" /></p> <hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20views&color=0e75b6&style=flat" alt="yashgajjar7017" /> </p>
