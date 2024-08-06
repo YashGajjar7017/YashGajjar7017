@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from Hinsdutan (India). I will help you anything about this field.</h3><hr>
-<img align="center" width="400" height="350" style="margin-bottom:10px;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
+<img align="center" width="500" height="350" style="margin-bottom:10px;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgajjar7017" alt="yashgajjar7017" /></a> </p>
 
