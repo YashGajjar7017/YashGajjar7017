@@ -23,9 +23,9 @@
 - 📫 How to reach me **codingwithyashacker17@gmail.com**
 
 - ⚡ Fun fact **I think! I am developer, but I am not😁**
-<hr><br>
+<br>
 <h3>My Achievement of 2024:</h3><br>
-<img href="">
+<img href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic1.png"> <img href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic2.png"> <img href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Oracle1.jpg">
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
