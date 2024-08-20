@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I think! I am developer, but I am not😁**
 <br>
 <h3>My Achievement of 2024:</h3><br>
-<img height="50px" width="50px" href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic1.png"> <img href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic2.png"> <img href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Oracle1.jpg">
+<img height="50px" width="50px" href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic1.png"> <img height="50px" width="50px" href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic2.png"> <img height="50px" width="50px" href="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Oracle1.jpg">
 <br>
 
 <h3 align="left">Connect with me:</h3>
