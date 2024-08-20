@@ -27,7 +27,7 @@
 
 <h3>My Achievement of 2024:</h3><br>
 <div style="display:flexbox;">
-<img height="150px" width="150px" src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic1.png"> <img height="150px" width="150px" src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic2.png"> <img height="150px" width="150px" src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Oracle1.jpg">
+<img height="150px" width="150px" src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic1.png"> <img height="150px" width="150px" src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic2.png"> <img height="150px" width="150px" src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Oracle1.png">
 </div>
 <br>
 
