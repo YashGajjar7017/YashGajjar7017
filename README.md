@@ -4,8 +4,6 @@
 <h3 align="center">A passionate backhand developer from Hindustan (India). I will help you anything about this field.</h3><hr>
 <img align="center" width="500" height="350" style="margin-bottom:10px;margin-left:50rm;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgajjar7017" alt="yashgajjar7017" /></a> </p>
-
 - 🔭 I’m currently working on [Gitlab](#)
 
 - 🌱 I’m currently learning **Node.js, React.js, Django, Python**
@@ -23,6 +21,8 @@
 - 📫 How to reach me **codingwithyashacker17@gmail.com**
 
 - ⚡ Fun fact **I think! I am developer, but I am not😁**
+
+<p align="left" style="display:flexbox;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgajjar7017" alt="yashgajjar7017" /></a> </p>
 <br>
 
 <h3>My Achievement of 2024:</h3><br>
