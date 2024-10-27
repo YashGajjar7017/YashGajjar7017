@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashGajjar7017/]
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
+- 📝 I regularly write articles on ```Google Blogs```
 
 - 💬 Ask me about **Python, JavaScript, React.js, etc..**
 
