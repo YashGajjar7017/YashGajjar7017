@@ -59,14 +59,14 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YashGajjar7017}/count.svg" /></p> <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20views&color=0e75b6&style=flat" alt="yashgajjar7017" /> </p>
 <p>
-<a href="https://github.com/YashGajjar7017"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=Yash Gajjar&color=ff3300" alt="Last Commit"/></a> 
+<img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20views&color=0e75b6&style=flat" alt="yashgajjar7017" /> <br>
+<a href="https://github.com/YashGajjar7017"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=Yash Gajjar&color=ff3300" alt="Last Commit"/></a> <br>
 <!--<img src="https://badges.pufler.dev/created/milaan9/93_Python_Data_Analytics_Projects" alt="Created"/>-->
 <!--<a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/93_Python_Data_Analytics_Projects.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
-<a href="https://github.com/YashGajjar7017/YashGajjar7017/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/YashGajjar7017/YashGajjar7017.svg?colorB=teal&style=flat" /></a> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F93_Python_Data_Analytics_Projects&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-<a href="https://github.com/YashGajjar7017/YashGajjar7017/stargazers"><img src="https://img.shields.io/github/stars/YashGajjar7017/YashGajjar7017.svg?colorB=1a53ff" alt="Stars Badge"/></a>
+<a href="https://github.com/YashGajjar7017/YashGajjar7017/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/YashGajjar7017/YashGajjar7017.svg?colorB=teal&style=flat" /></a> <br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F93_Python_Data_Analytics_Projects&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a><br>
+<a href="https://github.com/YashGajjar7017/YashGajjar7017/stargazers"><img src="https://img.shields.io/github/stars/YashGajjar7017/YashGajjar7017.svg?colorB=1a53ff" alt="Stars Badge"/></a><br>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/network/members"><img src="https://img.shields.io/github/forks/YashGajjar7017/YashGajjar7017" alt="Forks Badge"/> </a><br>
 <img src="https://img.shields.io/github/repo-size/YashGajjar7017/YashGajjar7017.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/pulls"><img src="https://img.shields.io/github/issues-pr/YashGajjar7017/YashGajjar7017.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
