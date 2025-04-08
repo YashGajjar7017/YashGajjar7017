@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from Hindustan (India). I will help you anything about this field.</h3><hr>
-<img align="center" width="500" height="350" style="margin-bottom:10px;margin-left:50rm;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound">
+<center><img align="center" width="500" height="350" style="margin-bottom:10px;margin-left:50rm;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="imgNotFound"></center>
 
 - 🔭 I’m currently working on [Gitlab](#)
 
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/github/repo-size/YashGajjar7017/YashGajjar7017.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/pulls"><img src="https://img.shields.io/github/issues-pr/YashGajjar7017/YashGajjar7017.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/issues"><img src="https://img.shields.io/github/issues/YashGajjar7017/YashGajjar7017.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/YashGajjar7017/YashGajjar7017.svg?colorB=996600&style=flat" alt="Language"/></a><br>
+<img src="https://img.shields.io/github/languages/top/YashGajjar7017/YashGajjar7017.svg?colorB=996600&style=flat" alt="Language"/></a>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2YashGajjar7017%2OpenLibrary&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/stargazers"><img src="https://img.shields.io/github/stars/YashGajjar7017/YashGajjar7017.svg?colorB=1a53ff" alt="Stars Badge"/></a>
