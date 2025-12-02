@@ -54,7 +54,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgajjar7017&show_icons=true&locale=en&layout=compact" alt="yashgajjar7017" /></p>
 
 <hr><center><h2>Resume:</h2></center>
-<img align="center" width="100%" height="100%" style="border:2px dotted white;" src="https://github.com/YashGajjar7017/Resume/blob/main/resume.jpg" alt="imgNotFound">
+<img align="center" width="100%" height="100%" style="border:2px dotted white;" src="https://github.com/YashGajjar7017/Resume/blob/main/Resume%204_%5B02-12-2025%5D.pdf" alt="imgNotFound">
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YashGajjar7017}/count.svg" /></p> <hr>
