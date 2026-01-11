@@ -54,7 +54,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgajjar7017&show_icons=true&locale=en&layout=compact" alt="yashgajjar7017" /></p>
 
 <hr><center><h2>Resume:</h2></center>
-<img align="center" width="100%" height="100%" style="border:2px dotted white;" src="https://github.com/YashGajjar7017/Resume/blob/main/Resume%204_%5B02-12-2025%5D.pdf" alt="imgNotFound">
+<img align="center" width="100%" height="100%" style="border:2px dotted white;" src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" alt="imgNotFound">
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YashGajjar7017}/count.svg" /></p> <hr>
@@ -62,8 +62,8 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20views&color=0e75b6&style=flat" alt="yashgajjar7017" />
 <a href="https://github.com/YashGajjar7017"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=Yash Gajjar&color=ff3300" alt="Last Commit"/></a>
-<!--<img src="https://badges.pufler.dev/created/milaan9/93_Python_Data_Analytics_Projects" alt="Created"/>-->
-<!--<a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/93_Python_Data_Analytics_Projects.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
+<img src="https://badges.pufler.dev/created/milaan9/93_Python_Data_Analytics_Projects" alt="Created"/>
+<a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/93_Python_Data_Analytics_Projects.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/YashGajjar7017/YashGajjar7017.svg?colorB=teal&style=flat" /></a>
 <img src="https://img.shields.io/github/repo-size/YashGajjar7017/YashGajjar7017.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/YashGajjar7017/YashGajjar7017/pulls"><img src="https://img.shields.io/github/issues-pr/YashGajjar7017/YashGajjar7017.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
