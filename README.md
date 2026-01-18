@@ -1,30 +1,31 @@
 <!-- ===================== HERO ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Yash%20Gajjar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
+<!-- ===================== MAIN IMAGE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Backend+Developer+from+India+🇮🇳;Python+%7C+Node.js+%7C+APIs;System+Thinking+%26+Clean+Architecture;Building+CodingWithYash;Learning+Every+Day+🚀" />
+  <img src="https://raw.githubusercontent.com/YashGajjar7017/YashGajjar7017/main/Yash.png" width="320" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Backend+Developer+from+India+🇮🇳;Python+%7C+Node.js+%7C+APIs;System+Design+Learner;Building+CodingWithYash;Learning+Every+Day+🚀" />
 </p>
 
 ---
 
-<!-- ===================== INTRO ===================== -->
-<img align="right" alt="coding" width="420" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-
 ## 👋 Hi, I’m Yash
 
-I’m a **Backend Developer** who loves building **reliable, scalable systems** and learning how things work under the hood.
+I’m a **Backend Developer** passionate about building **scalable, clean, and reliable systems**.
 
-- 💻 Backend focused: **APIs, Databases, Architecture**
-- 🌱 Currently learning **System Design & Cloud**
+- 💻 Backend: **APIs, Databases, Architecture**
+- 🌱 Learning **System Design & Cloud**
 - 🚀 Building **CodingWithYash**
-- 🤝 Open to **Open Source & Startup collaboration**
-- 💬 Ask me about **Python, Node.js, Backend APIs**
-- 📫 Reach me at **codingwithyashacker17@gmail.com**
-- ⚡ Fun fact: *Debugging is my superpower*
+- 🤝 Open to **Open Source & Startup roles**
+- 💬 Ask me about **Python, Node.js**
+- 📫 **codingwithyashacker17@gmail.com**
+- ⚡ Fun fact: *I enjoy debugging more than coding*
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -33,21 +34,25 @@ I’m a **Backend Developer** who loves building **reliable, scalable systems** 
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (FIXED & STABLE)
 
+### ✅ Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgajjar7017&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=yashgajjar7017&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgajjar7017&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
+### ✅ Contribution Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgajjar7017&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=yashgajjar7017&theme=react&hide_border=true" />
+</p>
+
+### ✅ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgajjar7017&layout=compact&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements (2024)
 
 <p align="left">
@@ -58,40 +63,26 @@ I’m a **Backend Developer** who loves building **reliable, scalable systems** 
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-gajjar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/yashgajjar17/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode"/>
-  </a>
-  <a href="https://instagram.com/yash_gajjar_7017" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@codinghacker007" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube"/>
-  </a>
-  <a href="https://codepen.io/yashgajjar7017" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen"/>
-  </a>
+  <a href="https://www.linkedin.com/in/yash-gajjar/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://leetcode.com/yashgajjar17/"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
+  <a href="https://instagram.com/yash_gajjar_7017"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.youtube.com/@codinghacker007"><img src="https://skillicons.dev/icons?i=youtube"/></a>
+  <a href="https://codepen.io/yashgajjar7017"><img src="https://skillicons.dev/icons?i=codepen"/></a>
 </p>
 
 ---
 
-<!-- ===================== RESUME ===================== -->
 ## 📄 Resume
 
-<img src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" width="100%" style="border-radius:12px"/>
+<img src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" width="100%" />
 
 ---
 
-<!-- ===================== VISITOR ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20Views&color=00e5ff&style=flat"/>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer"/>
