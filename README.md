@@ -1,5 +1,5 @@
 <!-- ===================== HERO ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Yash%20Gajjar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Welcome%20..!%20Hacker%20To%20World&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- ===================== MAIN IMAGE ===================== -->
 <p align="center">
