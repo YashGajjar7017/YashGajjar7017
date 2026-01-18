@@ -3,7 +3,7 @@
 
 <!-- ===================== MAIN IMAGE ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YashGajjar7017/YashGajjar7017/main/Yash.png" width="320" />
+  <img src="https://raw.githubusercontent.com/YashGajjar7017/YashGajjar7017/main/Yash.png" width="100%" height=100%/>
 </p>
 
 <p align="center">
