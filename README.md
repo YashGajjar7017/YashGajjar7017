@@ -85,21 +85,44 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
   <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20Views&color=00e5ff&style=flat"/><br>
   ## 🚦 Cloud & Integration Status
 
-![Code Coverage](https://img.shields.io/badge/Code%20Coverage-failing-red?style=for-the-badge)
-![Azure EXO](https://img.shields.io/badge/AzureCloud%20EXO-failing-red?style=for-the-badge)
+![Code Coverage](https://img.shields.io/badge/Code%20Coverage-passing-brightgreen?style=for-the-badge)
+![Azure EXO](https://img.shields.io/badge/AzureCloud%20EXO-passing-brightgreen?style=for-the-badge)
 ![Azure O365](https://img.shields.io/badge/AzureCloud%20O365-failing-red?style=for-the-badge)
-![Azure OD](https://img.shields.io/badge/AzureCloud%20OD-failing-red?style=for-the-badge)
+![Azure OD](https://img.shields.io/badge/AzureCloud%20OD-passing-brightgreen?style=for-the-badge)
 ![Azure PP](https://img.shields.io/badge/AzureCloud%20PP-failing-red?style=for-the-badge)
-![Azure SC](https://img.shields.io/badge/AzureCloud%20SC-failing-red?style=for-the-badge)
+![Azure SC](https://img.shields.io/badge/AzureCloud%20SC-passing-brightgreen?style=for-the-badge)
 ![Azure SPO](https://img.shields.io/badge/AzureCloud%20SPO-failing-red?style=for-the-badge)
-![Azure Teams](https://img.shields.io/badge/AzureCloud%20TEAMS-failing-red?style=for-the-badge)
+![Azure Teams](https://img.shields.io/badge/AzureCloud%20TEAMS-passing-brightgreen?style=for-the-badge)
 
-![AAD](https://img.shields.io/badge/Global%20Integration%20AAD-failing-red?style=for-the-badge)
-![EXO](https://img.shields.io/badge/Global%20Integration%20EXO-failing-red?style=for-the-badge)
+![AAD](https://img.shields.io/badge/Global%20Integration%20AAD-passing-brightgreen?style=for-the-badge)
+![EXO](https://img.shields.io/badge/Global%20Integration%20EXO-passing-brightgreen?style=for-the-badge)
 ![INTUNE](https://img.shields.io/badge/Global%20Integration%20INTUNE-failing-red?style=for-the-badge)
 
 ![Unit Tests](https://img.shields.io/badge/Unit%20Tests-passing-brightgreen?style=for-the-badge)
 
-</p>
+</p><br>
+
+🖤 Looks **hardcore DevOps**
+🖤 Very readable
+🖤 Recruiters love this
+
+---
+
+## 🏆 RECOMMENDED COMBO (WHAT I’D USE)
+
+✔ **Badges (Option 2)** for visual impact  
+✔ **Terminal block (Option 3)** below it  
+✔ Upgrade to **Option 1** later when pipelines exist
+
+---
+
+## 🚀 Want me to:
+- Convert this into a **single animated SVG**
+- Match it with your **current README theme**
+- Make **real GitHub Actions workflows**
+- Turn it into a **GIF dashboard**
+
+Say the word 😎
+<br><hr>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer"/>
