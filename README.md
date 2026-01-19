@@ -83,7 +83,7 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashgajjar7017&label=Profile%20Views&color=00e5ff&style=flat"/><br>
-  ## 🚦 Cloud & Integration Status
+## 🚦 Cloud & Integration Status
 
 ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-passing-brightgreen?style=for-the-badge)
 ![Azure EXO](https://img.shields.io/badge/AzureCloud%20EXO-passing-brightgreen?style=for-the-badge)
