@@ -22,7 +22,7 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 - 🚀 Building **CodingWithYash**
 - 🤝 Open to **Open Source & Startup roles**
 - 💬 Ask me about **Python, Node.js**
-- 📫 **codingwithyashacker17@gmail.com**
+- 📫 Email : **yashgujju2004@gmail.com**
 - ⚡ Fun fact: *I enjoy debugging more than coding*
 
 ---
