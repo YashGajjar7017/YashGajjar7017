@@ -78,7 +78,7 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 
 ## 📄 Resume
 
-<img src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" width="100%" />
+<!-- <img src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" width="100%" /> -->
 
 ---
 
